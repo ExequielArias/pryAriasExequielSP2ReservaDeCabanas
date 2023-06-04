@@ -268,7 +268,7 @@
             // 
             // cmdAceptar
             // 
-            this.cmdAceptar.Location = new System.Drawing.Point(477, 384);
+            this.cmdAceptar.Location = new System.Drawing.Point(481, 384);
             this.cmdAceptar.Name = "cmdAceptar";
             this.cmdAceptar.Size = new System.Drawing.Size(111, 40);
             this.cmdAceptar.TabIndex = 4;
